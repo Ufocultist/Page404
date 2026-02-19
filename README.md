@@ -1,9 +1,19 @@
-# vipiany.sh — temporary 404 / under construction page
+# :warning: Страница ошибки 404 - Молдавские web-гастарбайтеры :warning:
+## Описание
+Данная страница является копией страницы [http://proteys.info/404](http://proteys.info/404), но до 2024 года данная страница была утеряна из-за завершение поддержки Adobe Flash Player. Но я не хотел чтобы данная страница исчезла и я решил возродит её. 
 
-Original minimal flat design with an animated UFO/alien scene.
+А теперь к хорошим новостям - автор страницы вернулся и вы можете насладиться данной странице:
+[https://protey.info](https://protey.info).
 
-## Usage
-Serve the `index.html` file and the `assets/` folder as static content.
+>:warning: **Внимание:** 
+> 
+>По просьбе автора, данная страница является ознакомительной, использовать и распространять запрещено. 
+> 
+> По вопросам использование страницы пишите автору оригинальной страницы 404: [@Protey4ik](https://t.me/Protey4ik)
 
-## Audio
-No bundled music files. A small procedural loop is generated in-browser via WebAudio after a user click.
+Вы можете использовать мой проект как основу своему будущему проекту, но внешний вид не должен соответствовать оригинальной странице: [https://protey.info](https://protey.info).
+
+**Демо:** [https://element1493.github.io/Page404/](https://element1493.github.io/Page404/)
+
+## Автор оригинальной страницы:
+ - [https://protey.info](https://protey.info) [[@Protey4ik](https://t.me/Protey4ik)]
